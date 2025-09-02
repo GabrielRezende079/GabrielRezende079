@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedor e Estudante de Sistemas de Informação<br><br>Atualmente cursando Sistemas de Informação, venho aprimorando minhas habilidades em Python, C# , PostgreSQL, Java dentre outras técnologias. Sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente.<br><br>Estou sempre aberto a novas conexões e oportunidades no mundo da tecnologia! 🚀</p>
+<p align="left">💻 Desenvolvedor e Estudante de Sistemas de Informação<br><br>Atualmente cursando Sistemas de Informação, venho aprimorando minhas habilidades em Python, C# , PostgreSQL, Java, dentre outras técnologias como React e TypeScript para o desenvolvimeto front-end, Tauri e Electron para Programas Desktop, Automações de ia com Langchain e n8n além de reconhecimento de Videos e Imagens em tempo real com YOLO. Sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente.<br><br>Estou sempre aberto a novas conexões e oportunidades no mundo da tecnologia! 🚀</p>
 
 ###
 
