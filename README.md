@@ -1,31 +1,22 @@
-# 👋 Olá! Eu sou o Gabriel Rezende
+<h1 align="center">hey there 👋</h1>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-rezende-9808292b1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
----
+###
 
-## 🚀 Sobre mim
+<h3 align="left">👩‍💻  Sobre mim:</h3>
 
-**Desenvolvedor Full Stack** | **Estudante de Sistemas de Informação**
+###
 
-Sou apaixonado por tecnologia e atualmente estou cursando **Sistemas de Informação**. Tenho experiência em desenvolvimento web completo, aplicações desktop e soluções com inteligência artificial. Sempre em busca de novos desafios e oportunidades para inovar! 
+<p align="left">💻 Desenvolvedor e Estudante de Sistemas de Informação<br><br>Atualmente cursando Sistemas de Informação, venho aprimorando minhas habilidades em Python, C# , PostgreSQL, Java, dentre outras técnologias como React e TypeScript para o desenvolvimeto front-end, Tauri e Electron para Programas Desktop, Automações de ia com Langchain e n8n além de reconhecimento de Videos e Imagens em tempo real com YOLO. Sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente.<br><br>Estou sempre aberto a novas conexões e oportunidades no mundo da tecnologia! 🚀</p>
 
-### 💡 Áreas de interesse:
-- 🤖 **Inteligência Artificial**: Automações com Langchain e n8n
-- 🔍 **Computer Vision**: Reconhecimento de vídeos e imagens em tempo real com YOLO
-- 💻 **Desenvolvimento Desktop**: Aplicações com Tauri e Electron
-- 🌐 **Desenvolvimento Web**: Full stack com React, TypeScript e Node.js
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+###
 
 <h3 align="center">🌐 Front-end</h3>
 
@@ -87,28 +78,4 @@ Sou apaixonado por tecnologia e atualmente estou cursando **Sistemas de Informa�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
-
----
-
-## 🎯 Objetivos Atuais
-
-- 📚 Aprofundando conhecimentos em **Machine Learning** e **Deep Learning**
-- 🌐 Desenvolvendo projetos **Full Stack** mais complexos
-- 🤝 Colaborando em projetos **open source**
-- 📈 Expandindo portfolio com projetos de **IA** e **Computer Vision**
-
----
-
-## 📫 Vamos conversar?
-
-Estou sempre aberto a novas conexões, colaborações e oportunidades no mundo da tecnologia! 
-
-- 💼 LinkedIn: [Gabriel Rezende](https://www.linkedin.com/in/gabriel-rezende-9808292b1)
-- 📧 Email: seu-email@exemplo.com
-- 💬 Adoraria discutir sobre tecnologia, projetos interessantes ou oportunidades de colaboração!
-
----
-
-<div align="center">
-  <i>"A tecnologia é melhor quando aproxima as pessoas." - Matt Mullenweg</i>
-</div>
+###
