@@ -96,8 +96,3 @@
 - 🌐 Desenvolvendo projetos **Full Stack** mais complexos
 - 📈 Expandindo portfolio com projetos de **IA** e **Computer Vision**
 
-###
-
-<img src="https://raw.githubusercontent.com/GabrielRezende079/GabrielRezende079/output/snake.svg" alt="Snake animation" />
-
-###
