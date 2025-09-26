@@ -10,22 +10,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim:</h3>
+## 🚀 Sobre mim
 
-###
+**Desenvolvedor em busca do Full Stack** | **Estudante de Sistemas de Informação**
 
 <p align="left">💻 Desenvolvedor e Estudante de Sistemas de Informação<br><br>Atualmente cursando Sistemas de Informação, venho aprimorando minhas habilidades em Python, C# , PostgreSQL, Java, dentre outras técnologias como React e TypeScript para o desenvolvimeto front-end, Tauri e Electron para Programas Desktop, Automações de ia com Langchain e n8n além de reconhecimento de Videos e Imagens em tempo real com YOLO. Sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente.<br><br>Estou sempre aberto a novas conexões e oportunidades no mundo da tecnologia! 🚀</p>
 
-###
 
----
 
-💡 Áreas de interesse:
-
-🤖 Inteligência Artificial: Automações com Langchain e n8n
-🔍 Computer Vision: Reconhecimento de vídeos e imagens em tempo real com YOLO
-💻 Desenvolvimento Desktop: Aplicações com Tauri e Electron
-🌐 Desenvolvimento Web: Full stack com React, TypeScript e Node.js
+### 💡 Áreas de interesse:
+- 🤖 **Inteligência Artificial**: Automações com Langchain e n8n
+- 🔍 **Computer Vision**: Reconhecimento de vídeos e imagens em tempo real com YOLO
+- 💻 **Desenvolvimento Desktop**: Aplicações com Tauri e Electron
+- 🌐 **Desenvolvimento Web**: Full stack com React, TypeScript e Node.js
 
 ---
 
@@ -91,8 +88,8 @@
 
 ---
 
-🎯 Objetivos Atuais
+## 🎯 Objetivos Atuais
 
-📚 Aprofundando conhecimentos em Machine Learning e Deep Learning
-🌐 Desenvolvendo projetos Full Stack mais complexos
-📈 Expandindo portfolio com projetos de IA e Computer Vision
+- 📚 Aprofundando conhecimentos em **Machine Learning** e **Deep Learning**
+- 🌐 Desenvolvendo projetos **Full Stack** mais complexos
+- 📈 Expandindo portfolio com projetos de **IA** e **Computer Vision**
