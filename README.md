@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/gabriel-rezende-9808292b1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+    <a href="mailto:grezendabarbosaflorencio@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+  </a>
 </div>
 
 ###
@@ -15,7 +18,6 @@
 **Desenvolvedor em busca do Full Stack** | **Estudante de Sistemas de Informação**
 
 <p align="left">💻 Desenvolvedor e Estudante de Sistemas de Informação<br><br>Atualmente cursando Sistemas de Informação, venho aprimorando minhas habilidades em Python, C# , PostgreSQL, Java, dentre outras técnologias como React e TypeScript para o desenvolvimeto front-end, Tauri e Electron para Programas Desktop, Automações de ia com Langchain e n8n além de reconhecimento de Videos e Imagens em tempo real com YOLO. Sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente.<br><br>Estou sempre aberto a novas conexões e oportunidades no mundo da tecnologia! 🚀</p>
-
 
 
 ### 💡 Áreas de interesse:
