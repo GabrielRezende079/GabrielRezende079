@@ -23,7 +23,6 @@
 ### 💡 Áreas de interesse:
 - 🤖 **Inteligência Artificial**: Automações com Langchain e n8n
 - 🔍 **Computer Vision**: Reconhecimento de vídeos e imagens em tempo real com YOLO
-- 💻 **Desenvolvimento Desktop**: Aplicações com Tauri e Electron
 - 🌐 **Desenvolvimento Web**: Full stack com React, TypeScript e Node.js
 
 ---
