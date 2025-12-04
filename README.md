@@ -1,7 +1,17 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#F59221&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<img style="width:100%" src="https://capsule-render.vercel.app/api?
+type=waving
+&height=100
+&section=header
+&reversal=false
+&fontSize=70
+&fontColor=F59221
+&color=ffa94d
+&stroke=f56f00
+&descSize=20
+&descAlign=50
+&descAlignY=50" />
 </div>
-
 <h1 align="center">👋 Olá! Eu sou o Gabriel Rezende</h1>
 
 ###
