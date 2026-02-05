@@ -25,13 +25,13 @@
 
 **Desenvolvedor em busca do Full Stack** | **Estudante de Sistemas de Informação**
 
-<p align="left">Sou apaixonado por tecnologia, venho aprimorando minhas habilidades em Python, C# , Node, Java, dentre outras técnologias como React e TypeScript para o desenvolvimeto front-end, Automações de ia com Langchain e n8n além de reconhecimento de Videos e Imagens em tempo real com YOLO. Sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente.<br><br>Estou sempre aberto a novas conexões e oportunidades no mundo da tecnologia! 🚀</p>
+<p align="left">Sou apaixonado por tecnologia, venho aprimorando minhas habilidades em Python, PHP , Node, Java, dentre outras técnologias como React e TypeScript para o desenvolvimeto front-end, Inteligencia Artificial integrada a aplicações web, Automações de IA com Python e Langchain além de reconhecimento de Videos e Imagens em tempo real com YOLO e OpenCV. Sempre buscando novos desafios e oportunidades para aprender e crescer profissionalmente.<br><br>Estou sempre aberto a novas conexões e oportunidades no mundo da tecnologia! 🚀</p>
 
 
 ### 💡 Áreas de interesse:
-- 🤖 **Inteligência Artificial**: Automações com Langchain e n8n
-- 🔍 **Computer Vision**: Reconhecimento de vídeos e imagens em tempo real com YOLO
-- 🌐 **Desenvolvimento Web**: Full stack com React, TypeScript e Node.js
+- 🤖 **Inteligência Artificial**: Ferramentas do Ecossistema Python
+- 🔍 **Computer Vision**: Reconhecimento de Vídeos e Imagens em Tempo Real
+- 🌐 **Desenvolvimento Web**: Full Stack com Arquitetura Escalável 
 
 ---
 
