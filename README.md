@@ -106,7 +106,7 @@
 - 🌐 Desenvolvendo projetos **Full Stack** mais complexos
 - 📈 Expandindo portfolio com projetos de **IA** e **Computer Vision**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRezende079&size_weight=0.5&count_weight=0.5)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRezende079&hide=javascript,css,scss,html&theme=tokyonight)
 
 ###
 
