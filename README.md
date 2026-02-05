@@ -106,7 +106,7 @@
 - 🌐 Desenvolvendo projetos **Full Stack** mais complexos
 - 📈 Expandindo portfolio com projetos de **IA** e **Computer Vision**
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/GabrielRezende079/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielRezende079)](https://github.com/GabrielRezende079/github-readme-stats)
 
 ###
 
