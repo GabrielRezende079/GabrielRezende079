@@ -18,7 +18,7 @@
 <br>
 
  <div align="center">
-   <a href="https://rezende-dev.vercel.app" target="_blank">Meu Portfólio
+   <a href="https://rezende-dev.vercel.app" target="_blank">
    <img src="https://camo.githubusercontent.com/55148b4d5f05532f14df95119ca2b0bf4320a18b42b0534bf7ce13b2defd6263/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776562736974652d6635393034323f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" height="25" alt="linkedin logo"  />
    </a>
  </div>
