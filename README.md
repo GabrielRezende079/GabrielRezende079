@@ -112,8 +112,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GabrielRezende079/GabrielRezende079/output/snake.svg" alt="Snake animation" />
 
-###
 
 
