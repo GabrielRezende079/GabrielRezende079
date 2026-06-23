@@ -25,16 +25,27 @@
 
 ###
 
-## 🚀 About Me
+## Backend Developer • Software Architecture Enthusiast • Cloud & AI Solutions
 
-**Aspiring Full Stack Developer** | **Information Systems Student** | 🇧🇷 **Proudly Brazilian**
+🇧🇷 **Brazil** | **Information Systems Student**
 
-<p align="left">I'm passionate about technology and constantly sharpening my skills. I work with Python, PHP, Node.js, and Java on the back end, while using React and TypeScript on the front end. I'm also deeply interested in AI integrated into web applications, AI automations with Python and LangChain, and real-time video and image recognition with YOLO and OpenCV. I'm always looking for new challenges and opportunities to learn and grow professionally.<br><br>Always open to new connections and opportunities in the tech world! 🚀</p>
+<p align="left">I'm a software developer focused on building scalable back-end systems, cloud-native applications, and AI-powered solutions.
+
+My main expertise is developing APIs, designing software architectures, modeling databases, and deploying applications using modern cloud and DevOps practices.
+
+I work primarily with Node.js, PHP/Laravel, Go, Python, PostgreSQL, Docker, and AWS, while also building modern front-end applications with React and TypeScript.</p>
 
 ### 💡 Areas of Interest:
-- 🤖 **Artificial Intelligence**: Python Ecosystem Tools
-- 🔍 **Computer Vision**: Real-Time Video and Image Recognition
-- 🌐 **Web Development**: Full Stack with Scalable Architecture
+- Software Architecture
+- Cloud Computing
+- Serverless Applications
+- Distributed Systems
+- Artificial Intelligence
+- Computer Vision
+- Process Automation
+- SaaS Platforms
+
+<p>I enjoy transforming business problems into scalable and maintainable software solutions while continuously learning new technologies and architectural patterns.</p>
 
 ---
 
@@ -105,10 +116,13 @@
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Goals
 
-- 📚 Deepening my knowledge in **Machine Learning** and **Deep Learning**
-- 🌐 Building more complex **Full Stack** projects
-- 📈 Expanding my portfolio with **AI** and **Computer Vision** projects
+- 💡 Build production-grade SaaS applications
+- 🏗️ Deepen software architecture expertise
+- 📃 Expand AWS cloud knowledge
+- 🧠 Develop AI-powered products
+- 👥 Contribute to open-source projects
+- 🌐 Pursue backend and software architecture opportunities
 
 ###
