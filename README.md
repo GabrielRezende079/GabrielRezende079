@@ -67,7 +67,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="  https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" height="40" alt="Go logo" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" height="40" alt="Go" />
   <img width="12" />
 </div>
 
