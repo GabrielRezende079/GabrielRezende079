@@ -76,7 +76,7 @@ I work primarily with Node.js, PHP/Laravel, Go, Python, PostgreSQL, Docker, and 
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" height="40" alt="laravel logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" height="40" alt="nodejs logo" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" height="40" alt="Go" />
   <img width="12" />
@@ -112,6 +112,9 @@ I work primarily with Node.js, PHP/Laravel, Go, Python, PostgreSQL, Docker, and 
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" height="40" alt="swagger logo" />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" height="40" alt="swagger logo" />
+  <img width="12" />
+  
 </div>
 
 ---
