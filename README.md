@@ -126,8 +126,9 @@ I work primarily with Node.js, PHP/Laravel, Go, Python, PostgreSQL, Docker, and 
 - 📃 Expand AWS cloud knowledge
 - 🧠 Develop AI-powered products
 - 👥 Contribute to open-source projects
-- 🌐 Pursue backend and software architecture opportunities
+- 🌐 Pursue backend and software architecture 
+
 
 ###
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRezende079
+https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielRezende079&langs_count=4
