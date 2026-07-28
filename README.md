@@ -131,4 +131,4 @@ I work primarily with Node.js, PHP/Laravel, Go, Python, PostgreSQL, Docker, and 
 
 ###
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielRezende079&langs_count=4&hide=blade,html,css,jupyter%20notebook,c#)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielRezende079&langs_count=5&hide=blade,html,css,jupyter%20notebook,csharp)
