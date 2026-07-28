@@ -130,4 +130,4 @@ I work primarily with Node.js, PHP/Laravel, Go, Python, PostgreSQL, Docker, and 
 
 ###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRezende079)
+https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRezende079
