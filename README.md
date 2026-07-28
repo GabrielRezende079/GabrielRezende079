@@ -130,4 +130,4 @@ I work primarily with Node.js, PHP/Laravel, Go, Python, PostgreSQL, Docker, and 
 
 ###
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=GabrielRezende079)](https://github.com/stats-organization/github-stats-extended)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRezende079)
