@@ -89,7 +89,7 @@ I work primarily with Node.js, PHP/Laravel, Go, Python, PostgreSQL, Docker, and 
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgres.png" height="40" alt="postgresql logo" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="40" alt="mongodb logo" />
   <img width="12" />
@@ -108,7 +108,7 @@ I work primarily with Node.js, PHP/Laravel, Go, Python, PostgreSQL, Docker, and 
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" height="40" alt="postman logo" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" height="40" alt="postman logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" height="40" alt="swagger logo" />
   <img width="12" />
