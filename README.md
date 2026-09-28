@@ -33,7 +33,7 @@
 
 My main expertise is developing APIs, designing software architectures, modeling databases, and deploying applications using modern cloud and DevOps practices.
 
-I work primarily with Node.js, PHP/Laravel, Go, Python, PostgreSQL, Docker, and AWS, while also building modern front-end applications with React and TypeScript.</p>
+I work primarily with Node.js, Go, Python, PostgreSQL, Docker, and AWS, while also building modern front-end applications with React and TypeScript.</p>
 
 ### 💡 Areas of Interest:
 - Software Architecture
